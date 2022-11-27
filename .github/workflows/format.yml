@@ -1,0 +1,19 @@
+name: Json Formatter
+
+on:
+  push:
+    paths:
+      - "**.json"
+
+env:
+  GH_TOKEN: ${{ secrets.lol }}
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Format json
+        run: bash .github/format.sh
