@@ -1,6 +1,14 @@
 [
   {
     "author": "Raj Arya",
+    "name": "Radiant Emerald Glow",
+    "collections": "Blush",
+    "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/wallstory/main/Luma_Mint.png",
+    "id": "3c5d8f53346d34a642a52a88c4007929ffc26574253d4e4e0e1f171774c30a3a",
+    "featured": true
+  },
+  {
+    "author": "Raj Arya",
     "name": "Azure Grid Rhythm",
     "collections": "Glassmorphism",
     "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/wallstory/main/Frame_3019111.png",
@@ -21,6 +29,20 @@
     "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/wallstory/main/scene.png",
     "id": "9c76b7351e4ed4d13950091489ffa88b7c2a0890fc4d5d618ca2863b5b170c50",
     "featured": true
+  },
+  {
+    "author": "Raj Arya",
+    "name": "Azure Horizon Glow",
+    "collections": "Blush",
+    "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/wallstory/main/Luma_Sea.png",
+    "id": "59a16ed17b6ac1062c1ac907ec093c1be3a967a6f1d862d32fe67c61e319fea4"
+  },
+  {
+    "author": "Raj Arya",
+    "name": "Solar Halo",
+    "collections": "Blush",
+    "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/wallstory/main/Luma_Sun.png",
+    "id": "d60e40eb7e354f5cbbfdfa41536e98519807efe247ad6e91fd90ab133ede10b6"
   },
   {
     "author": "Raj Arya",
